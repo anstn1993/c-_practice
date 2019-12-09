@@ -1,0 +1,3 @@
+﻿  static_assert.cpp
+C:\Users\moonsoo\Desktop\c++\static_assert\static_assert.cpp(13,32): error C2338: vector1 is not 16 bytes.
+C:\Users\moonsoo\Desktop\c++\static_assert\static_assert.cpp(21,32): error C2338: vector2 is not 12 bytes
